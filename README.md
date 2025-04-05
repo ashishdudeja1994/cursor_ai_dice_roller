@@ -1,6 +1,6 @@
 # Dice Roller App
 
-**Production URL:** cursor-dice-roller.netlify.app
+**Production URL:** https://cursor-dice-roller.netlify.app
 
 # Getting Started with Create React App
 
