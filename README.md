@@ -1,6 +1,6 @@
 # Dice Roller App
 
-**Production URL:** https://bespoke-druid-0532ca.netlify.app
+**Production URL:** cursor-dice-roller.netlify.app
 
 # Getting Started with Create React App
 
